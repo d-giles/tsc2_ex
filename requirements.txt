@@ -1,17 +1,12 @@
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python>3
-  - astropy
-  - astroquery
-  - jupyterlab
-  - matplotlib
-  - numba
-  - numpy
-  - pandas
-  - scikit-learn
-  - scipy
-  - pip
-  - pip:
-    - lightkurve>=2
+python>3
+astropy
+astroquery
+jupyterlab
+matplotlib
+numba
+numpy
+pandas
+scikit-learn
+scipy
+pip
+lightkurve>=2
